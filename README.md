@@ -11,13 +11,13 @@ Este repositorio contiene el código fuente, la documentación y los archivos de
 
 El repositorio está dividido en las siguientes carpetas:
 
-* **`/Firmware_Sensor_y_Gateway`**: Contiene los proyectos desarrollados en ESP-IDE para los sensores y el gateway.
+* **`/1- Firmware_Sensor_y_Gateway`**: Contiene los proyectos desarrollados en ESP-IDE para los sensores y el gateway.
  
-* **`/App_Interfaz_Multiplataforma`**: Contiene el proyecto desarrollado en Android Studio utilizando Kotlin Multiplatform y Compose. También se incluyen en esta carpeta los instaladores de la aplicación para la versión Android (.apk) y Windows 11 (.msi).
+* **`/2- App_Interfaz_Multiplataforma`**: Contiene el proyecto desarrollado en Android Studio utilizando Kotlin Multiplatform y Compose. También se incluyen en esta carpeta los instaladores de la aplicación para la versión Android (.apk) y Windows 11 (.msi).
  
-* **`/Documentacion`**: Contiene el manual de usuario para la configuración y operación del sistema.
+* **`/3- Documentacion`**: Contiene el manual de usuario para la configuración y operación del sistema.
  
-* **`/Logs_y_Validacion`**: Contiene los archivos de los logs volcados de puerto serie extraídos durante las tomas de datos.
+* **`/4- Logs_y_Validacion`**: Contiene los archivos de los logs volcados de puerto serie extraídos durante las tomas de datos.
 *(Nota: Los vídeos grabados durante las tomas de datos no se incluyen en este repositorio público por motivos de privacidad)*
 
 ---
